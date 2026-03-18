@@ -1,1 +1,2 @@
-###v1.0.0 - [Date] - Added name input. (@acalugatiman)
+###v1.0.0 - [Date] - Added name input. 
+(@acalugatiman)
